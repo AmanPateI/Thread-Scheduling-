@@ -1,10 +1,3 @@
-/*
- * process.c
- * Multithreaded OS Simulation for CS 2200 and ECE 3058
- *
- * This file contains process data for the simulator.
- */
-
 #include "os-sim.h"
 #include "process.h"
 #include <stdlib.h>
