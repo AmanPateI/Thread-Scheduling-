@@ -1,10 +1,3 @@
-/*
- * student.c
- * Multithreaded OS Simulation for CS 2200 and ECE 3058
- *
- * This file contains the CPU scheduler for the simulation.
- */
-
 #include <assert.h>
 #include <pthread.h>
 #include <stdio.h>
