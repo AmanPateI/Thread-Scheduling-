@@ -1,12 +1,3 @@
-/*
- * os-sim.c
- * Multithreaded OS Simulation for CS 2200 and ECE 3058
- *
- * The simulator internals.
- *
- * DO NOT MODIFY THIS FILE
- */
-
 #include <assert.h>
 #include <pthread.h>
 #include <stdio.h>
